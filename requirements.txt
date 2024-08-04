@@ -1,0 +1,6 @@
+streamlit==1.19.0
+opencv-python-headless==4.7.0.72
+numpy==1.24.2
+firebase-admin==6.2.0
+ultralytics==8.2.71
+Pillow==9.4.0
